@@ -147,3 +147,13 @@ h1 {
 .error-txt{
   color: #dc3545;
 }
+
+
+.shake{
+  display: none;
+}
+
+.valid{
+  display: none;
+}
+
